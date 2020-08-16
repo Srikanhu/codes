@@ -1,4 +1,5 @@
-
+//You need libgcrypt 
+// How to run: gcc hashSha256.c -lgcrypt
 #include <stdio.h>
 #include <string.h>
 #include "pbc/pbc.h"
