@@ -1,3 +1,6 @@
+// this is openssl example of AES cryptography.
+// To run > gcc openSSLaes.c -lssl -lcrypto
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
